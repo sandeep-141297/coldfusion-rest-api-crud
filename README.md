@@ -9,7 +9,7 @@ This documentation explains the folder structure, ColdFusion Admin (CFAdmin) set
 ## 📂 Folder Structure
 
 ```
-cf_rest_api/
+coldfusion-rest-api-crud/
 ├── Application.cfc        # Application config and REST setup
 ├── api/
 │   └── users.cfc             # REST component for user CRUD operations
